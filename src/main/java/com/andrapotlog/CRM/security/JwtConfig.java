@@ -11,4 +11,5 @@ public class JwtConfig {
     @Value("${jwt.secretKey}")
     private String secretKey;
 
+
 }
